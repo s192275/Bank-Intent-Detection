@@ -24,6 +24,7 @@ The application is designed as a lightweight prototype for **intent detection sy
 ---
 
 ## 🧩 Architecture
+"""
       User Text
           
           ↓
@@ -41,7 +42,7 @@ The application is designed as a lightweight prototype for **intent detection sy
           ↓
   
   Predicted Banking Intent
-
+"""
 
 ---
 
