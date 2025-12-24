@@ -25,13 +25,21 @@ The application is designed as a lightweight prototype for **intent detection sy
 
 ## 🧩 Architecture
       User Text
+          
           ↓
+          
   Spell / Grammar Correction (T5)
+          
           ↓
+  
   Sentence Embedding (MiniLM)
+  
           ↓
+  
   KNN Intent Classifier
+  
           ↓
+  
   Predicted Banking Intent
 
 
