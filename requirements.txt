@@ -1,0 +1,5 @@
+streamlit
+joblib
+sentence-transformers
+scikit-learn
+transformers
